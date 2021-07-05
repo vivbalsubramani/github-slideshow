@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Vivek reviewed and made a change here
 Hi Vivek, Use the left arrow to go back!
